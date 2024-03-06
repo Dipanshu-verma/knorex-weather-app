@@ -16,13 +16,8 @@ This project is a weather forecast website developed using React.js for the fron
 
 Here are a couple of screenshots showcasing the website:
 
-<p align="center">
-  <img width="620px" src="./src/assets/readme1st.png">
-</p>
-
-<p align="center">
-  <img width="620px" src="./src/assets/readme2nd.png">
-</p>
+<img width="684" alt="Image20240306194544" src="https://github.com/shivamcalis1998/knorex-map/assets/114653221/4b97a5a1-9a76-4c21-8881-6c7d3a921b84">
+<img width="684" alt="Image20240306194544" src="https://github.com/shivamcalis1998/knorex-map/assets/114653221/3ec1f502-535a-4d0c-8867-3d91a81ae398">
 
 ## Technologies Used
 
@@ -36,6 +31,6 @@ Here are a couple of screenshots showcasing the website:
 
 1. **Clone the Repository**:
   git clone https://github.com/Dipanshu-verma/knorex-weather-app.git
-  
+
 # knorex-weather-app
  
