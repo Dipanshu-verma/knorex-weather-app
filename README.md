@@ -35,6 +35,7 @@ Here are a couple of screenshots showcasing the website:
 ## How to Run
 
 1. **Clone the Repository**:
+  git clone https://github.com/Dipanshu-verma/knorex-weather-app.git
   
 # knorex-weather-app
-# knorex-weather-app
+ 
